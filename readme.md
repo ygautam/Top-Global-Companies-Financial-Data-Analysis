@@ -33,9 +33,9 @@ Advanced Excel Concepts
 - Dynamic Data Extraction: Create a dropdown filter that allows users to select a country and dynamically display the top 10 companies from that country.
 - Lookup And Match Functions: Implement a VLOOKUP or INDEX MATCH function to retrieve financial details of a company when its name is entered in a search cell.
 - Company Segmentation: Use pivot tables to classify companies into different tiers based on Market Value:
-Tier 1: Market Value > $500B
-Tier 2: $100B < Market Value < $500B
-Tier 3: Market Value < $100B
+- Tier 1: Market Value > $500B
+- Tier 2: $100B < Market Value < $500B
+- Tier 3: Market Value < $100B
 
 ### Visualization And Dashboard
 - Create an Interactive Dashboard: Build an Excel dashboard that includes:
